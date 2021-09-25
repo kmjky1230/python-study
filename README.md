@@ -1,6 +1,7 @@
 # python-study
 what I studied about python <br>
 
+pandas, numpy, pytorch, algorithm with python
 
 
 <hr>
